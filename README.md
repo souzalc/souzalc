@@ -1,4 +1,7 @@
-Oii! Eu sou o Lucas e tenho 21 anos! 👋 Estou na busca de aumentar minha experiência como Developer Full-Stack! JavaScript || React.js || Node.js 💻🚀
+- Oii! 
+- Eu sou o Lucas e tenho 21 anos! 👋 
+- Estou na busca de aumentar minha experiência como Developer Full-Stack! 
+- - JavaScript || React.js || Node.js 💻🚀
  <div align="center">
   <a href="https://github.com/souzalc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzalc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
