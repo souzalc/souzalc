@@ -1,11 +1,13 @@
-Lucas Souza
-Sou programador Front-end com em média 2 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, Next.js, Tailwind CSS, Git e GitHub e muito mais..
+# Lucas Souza
+
+<p>Sou programador Front-end com em média 2 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, Next.js, Tailwind CSS, Git e GitHub e muito mais..
 
 Ao longo da minha trajetória como instrutor técnico e programador front-end, adquiri experiência em metodologias ágeis como Scrum e Kanban. Estou disponível para contribuir com minha expertise em JS, TS, React, Next.js e Node.js para a sua equipe.
 
-Além disso, gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.
+Além disso, gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.</p>
 
-Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi,
+<p>Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi, <a href="https://birobirobiro.dev" target="_blank">acesse meu portofólio</a></p>
+
  <div align="center">
   <a href="https://github.com/souzalc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzalc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
