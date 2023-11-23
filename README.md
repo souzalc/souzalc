@@ -1,7 +1,11 @@
-- Oii! 
-- Eu sou o Lucas e tenho 21 anos! 👋 
-- Estou na busca de aumentar minha experiência como Developer Full-Stack! 
-- - JavaScript || React.js || Node.js 💻🚀
+Lucas Souza
+Sou programador Front-end com em média 2 anos de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, ReactJS, Next.js, Tailwind CSS, Git e GitHub e muito mais..
+
+Ao longo da minha trajetória como instrutor técnico e programador front-end, adquiri experiência em metodologias ágeis como Scrum e Kanban. Estou disponível para contribuir com minha expertise em JS, TS, React, Next.js e Node.js para a sua equipe.
+
+Além disso, gosto de construir projetos pessoais e produzir conteúdos para minhas redes sociais.
+
+Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi,
  <div align="center">
   <a href="https://github.com/souzalc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzalc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
